@@ -1,0 +1,20 @@
+.cart.empty {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 4rem);
+    margin-top: -4rem;
+}
+.cart.img-container {
+    flex-grow: 0;
+    flex-basis: 120px;
+    max-width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cart.img-container img {
+    max-width: 120px;
+    max-height: 120px;
+}

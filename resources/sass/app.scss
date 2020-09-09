@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Custom scss
+@import './global.scss';
+@import './navbar.scss';
+@import './home.scss';
+@import './notification.scss';
+@import './product.scss';
+@import './cart.scss';
+
+// Components scss
+@import './components/cart-nav.scss';

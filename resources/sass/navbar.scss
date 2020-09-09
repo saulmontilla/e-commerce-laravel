@@ -1,0 +1,22 @@
+.main-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    height: 4rem;
+}
+
+.main-nav .right-side {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.main-nav a {
+    padding: .5rem;
+    color: #000;
+    text-decoration: none;
+}

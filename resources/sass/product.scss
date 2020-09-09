@@ -1,0 +1,13 @@
+.product.price {
+    font-size: 20px;
+}
+.product.quantity {
+    border: 0;
+    outline: none;
+    border-bottom: 1px solid #3f3f3f;
+    background: none;
+    width: 50px;
+}
+.product.quantity:focus {
+    border-color: #3490dc;
+}
